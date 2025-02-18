@@ -1,9 +1,8 @@
-# Hi there! 👋
-I'm a 5th Year Computer Science Undergraduate Student at UBC Vancouver, who loves making and building software.
+<h1 style="text-align: center;">Hi there! 👋</h1>
+<p align ="center"> I'm a 5th Year Computer Science Undergraduate Student at UBC Vancouver, who loves making and building software.
 
-Feel free to explore the projects I am working on!
-
-[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseth-official)](https://github.com/anuraghazra/github-readme-stats)
+<p align ="center"> Feel free to explore the projects I am working on!
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kseth-official&show_icons=true&theme=gotham" alt="kush-sethi" />
 
 <!--
 **kseth-official/kseth-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
