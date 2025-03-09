@@ -3,7 +3,7 @@ I'm a 5th Year Computer Science Undergraduate Student at UBC Vancouver, who love
 
 Feel free to explore the projects I am working on!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseth-official&layout=donut-vertical&theme=transparent" alt="Kush's Most Used Languages" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseth-official&layout=donut-vertical&theme=nord" alt="Kush's Most Used Languages" />
 
 <!--Items Below Are Older Items For Reference-->
 
