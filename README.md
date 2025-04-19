@@ -1,7 +1,7 @@
-<h1 style="text-align: center;">Hi there! 👋</h1>
-I'm a 5th Year Computer Science Undergraduate Student at UBC Vancouver, who loves making and building software.
+<h1 style="text-align: center;">Hi there 👋</h1>
+I'm always experimenting with new ideas here. 
 
-Feel free to explore the projects I am working on!
+Feel free to check out what I'm working on.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseth-official&layout=donut-vertical&theme=gotham" alt="Kush's Most Used Languages" />
 
